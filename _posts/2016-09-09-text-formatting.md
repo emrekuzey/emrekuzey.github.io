@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+title: Text Formatting
+author: Paul Le
+categories: programming
+tags:
+  - sample
 image: arctic-1.jpg
+published: true
 ---
 
 # Markdown Support
