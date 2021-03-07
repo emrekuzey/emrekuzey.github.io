@@ -7,7 +7,7 @@ tags:
   - documentation
   - sample
 image: city-2.jpg
-published: false
+published: true
 ---
 
 # Millennial
