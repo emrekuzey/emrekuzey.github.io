@@ -10,7 +10,7 @@ menu:
 # - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 - {name: 'Statistics', folder: 'pages', file: 'resources.html'}
 - {name: 'Machine Learning', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Programming', folder: 'pages', file: 'documentation.html'}
+- {name: 'Programming', folder: 'pages', file: 'programming.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
