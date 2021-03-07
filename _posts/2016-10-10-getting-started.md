@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started
 author: Paul Le
-categories: statistics
+categories: ML
 tags:
   - documentation
   - sample
