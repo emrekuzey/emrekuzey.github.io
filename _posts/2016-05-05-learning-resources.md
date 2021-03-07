@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML"
+title: ML
 author: "Paul Le"
 categories: ML
 tags: [documentation,sample]
