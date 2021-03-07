@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Millennial!
 author: Paul Le
-categories: documentation
+categories: statistics
 tags:
   - documentation
   - sample
