@@ -2,7 +2,7 @@
 layout: post
 title: "ML"
 author: "Paul Le"
-categories: resources
+categories: ML
 tags: [documentation,sample]
 image: arctic-4.jpg
 ---
