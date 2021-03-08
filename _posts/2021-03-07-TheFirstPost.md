@@ -6,7 +6,7 @@ categories: ML
 tags:
   - programming
   - sample
-image: cuba-1.jpg
+image: K_means.svg
 ---
 ## A New Post
 
