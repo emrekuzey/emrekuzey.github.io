@@ -13,6 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "The Notes"
 description:	       "A personal journey of a data scientist"
 author:              "Emre Kuzey"
+logo:                TheNotes_favicon_1_2.svg
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
